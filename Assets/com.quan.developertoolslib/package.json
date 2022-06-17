@@ -1,0 +1,23 @@
+{
+    "name": "com.quan.developertoolslib",
+    "version": "0.0.1",
+    "description": "自建库",
+    "displayName": "developertoolslib",
+    "unity": "2019.4",
+    "author": {
+        "name": "Quan",
+        "email": "2323000653@qq.com",
+        "url": "https://github.com/githubquanup/DeveloperToolsLib"
+    },
+    "changlogUrl": "",
+    "dependencies": {},
+    "documentationUrl": "",
+    "hideInEditor": false,
+    "keywords": [
+        "Quan"
+    ],
+    "license": "",
+    "licensesUrl": "",
+    "sameples": [],
+    "unityRelease": "16f1"
+}
